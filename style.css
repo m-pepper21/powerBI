@@ -1,0 +1,9 @@
+body {
+  background-color: navy;
+}
+
+.Frame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
